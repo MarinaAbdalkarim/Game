@@ -8,4 +8,4 @@ Instructions to make this game work:
 
 3. Of the files labelled Project 1, the (.exe) one is the one you select to run the game
 
-4. When you select it a window will come up saying it can't run, just click "learn more" and then "run anyway" and it should work.
+4. When you select it a window will come up saying it can't run, just click "more info" and then "run anyway" and it should work.
